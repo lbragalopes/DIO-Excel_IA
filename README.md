@@ -19,7 +19,7 @@
 
 ## 🧮 Desafio 1: Simulador de Controle de Investimentos
 
- **Simulador de Controle de Investimentos **, com foco em planejamento financeiro e análise de longo prazo.
+Arquivo: Simulador de Controle de Investimentos.xlsx 
 
 ### 🔹 Descrição do Desafio
 
